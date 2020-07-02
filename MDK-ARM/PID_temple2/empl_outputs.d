@@ -1,0 +1,14 @@
+pid_temple2\empl_outputs.o: ..\core\eMPL-hal\eMPL_outputs.c
+pid_temple2\empl_outputs.o: ..\core\eMPL-hal\eMPL_outputs.h
+pid_temple2\empl_outputs.o: ..\core\driver\include\mltypes.h
+pid_temple2\empl_outputs.o: ..\core\driver\include\stdint_invensense.h
+pid_temple2\empl_outputs.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+pid_temple2\empl_outputs.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+pid_temple2\empl_outputs.o: D:\Keil5\ARM\ARMCC\Bin\..\include\errno.h
+pid_temple2\empl_outputs.o: D:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+pid_temple2\empl_outputs.o: ..\core\mllite\ml_math_func.h
+pid_temple2\empl_outputs.o: ..\core\driver\include\mlmath.h
+pid_temple2\empl_outputs.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+pid_temple2\empl_outputs.o: ..\core\mllite\start_manager.h
+pid_temple2\empl_outputs.o: ..\core\mllite\data_builder.h
+pid_temple2\empl_outputs.o: ..\core\mllite\results_holder.h
